@@ -1,0 +1,14 @@
+{
+  "name": "q-parallel",
+  "version": "1.0.0",
+  "description": "base on q promise libary, and configurable times number at the same time of concurrent execute functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hcnode",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
