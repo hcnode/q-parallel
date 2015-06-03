@@ -1,5 +1,6 @@
 **Feature**
  - q-parallel is base on q library, configurable max times at the same time of concurrent execute functions, support asynchronous functions
+ 
 **Install**
 
     npm install q-parallel
