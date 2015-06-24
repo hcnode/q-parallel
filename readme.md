@@ -1,5 +1,5 @@
 **Feature**
- - q-parallel is base on  [q](https://github.com/kriskowal/q) library, configurable concurrents at the same time of concurrent execute functions, support asynchronous functions
+ - q-parallel is base on  [q](https://github.com/kriskowal/q) library, configurable concurrency at the same time of concurrent execute functions, support asynchronous functions
  
 **Install**
 
