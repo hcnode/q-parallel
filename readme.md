@@ -1,3 +1,5 @@
+## 
+
 **Feature**
  - q-parallel is base on  [q](https://github.com/kriskowal/q) library, configurable concurrency at the same time of concurrent execute functions, support asynchronous functions
  
@@ -26,7 +28,7 @@ or
 **Example**
 
 
-    equire("q-parallel")([5,4,3,2,1], 2, function(index, defer, item){
+    require("q-parallel")([5,4,3,2,1], 2, function(index, defer, item){
     	setTimeout(function(){
 		    defer.resolve({
 				index : index,
